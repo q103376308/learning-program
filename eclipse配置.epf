@@ -1,0 +1,207 @@
+#Thu Feb 09 15:40:46 CST 2017
+/instance/org.eclipse.wst.html.ui/html_content_assist_default_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000
+/instance/org.eclipse.wst.jsdt.web.core/jspIndexState=1
+/instance/org.eclipse.mylyn.context.core/mylyn.attention.migrated=true
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_1_0=1
+/instance/org.eclipse.wst.sse.core/task-tag-projects-already-scanned=Ecloud-dataplug,RemoteSystemsTempFiles,Servers,Ecloud-data,Ecloud-protal,Ecloud-protal-frame,3\u6587\u6863,climbBug
+@org.eclipse.jdt.junit=3.7.100.v20120523-1543
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_10_0=1
+@org.eclipse.rse.ui=3.3.3.201302122026
+@org.eclipse.e4.ui.css.swt.theme=0.9.4.v20130123-162658
+@org.eclipse.m2e.discovery=1.4.1.20140328-1905
+/instance/org.eclipse.wst.validation/USER_MANUAL_PREFERENCE=enabledManualValidatorListorg.eclipse.jst.j2ee.internal.validation.UIEarValidator;org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator;org.eclipse.jst.j2ee.internal.validation.UIApplicationClientValidator;org.eclipse.jst.j2ee.internal.jca.validation.UIConnectorValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.wst.validation/saveAuto=false
+@org.eclipse.jst.jsp.core=1.2.502.v201301101836
+/instance/org.eclipse.wst.validation/stateTS=0
+/instance/org.eclipse.ui.ide/platformState=1477197247722
+@org.eclipse.ui.ide=3.8.2.v20121106-165923
+@org.eclipse.jdt.core=3.8.3.v20130121-145325
+/instance/org.eclipse.ui.workbench/editors=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<editors>\r\n<descriptor class\="org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor" id\="org.eclipse.jdt.ui.ClassFileEditorNoSource" image\="$nl$/icons/full/obj16/classf_obj.gif" internal\="true" label\="Class File Viewer" openMode\="1" open_in_place\="false" plugin\="org.eclipse.jdt.ui"/>\r\n<descriptor class\="org.eclipse.wst.sse.ui.StructuredTextEditor" id\="org.eclipse.jst.jsp.core.jspsource.source" image\="$nl$/icons//full/obj16/sourceEditor.gif" internal\="true" label\="JSP Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.jst.jsp.ui"/>\r\n<descriptor class\="org.eclipse.jst.pagedesigner.editors.HTMLEditor" id\="org.eclipse.jst.pagedesigner.PageDesignerEditor" image\="icons/PD_Plugin.gif" internal\="true" label\="Web Page Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.jst.pagedesigner"/>\r\n<descriptor class\="org.eclipse.datatools.sqltools.internal.sqlscrapbook.editor.SQLScrapbookEditor" id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor" image\="images/qrydoc.gif" internal\="true" label\="SQL File Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.datatools.sqltools.sqlscrapbook"/>\r\n<descriptor class\="org.eclipse.datatools.sqltools.sqlbuilder.SQLBuilderEditor" id\="org.eclipse.datatools.sqltools.sqlbuilder" image\="images/qrydoc.gif" internal\="true" label\="SQL Query Builder" openMode\="1" open_in_place\="false" plugin\="org.eclipse.datatools.sqltools.sqlbuilder"/>\r\n<descriptor class\="org.eclipse.wst.xsl.ui.internal.editor.XSLEditor" id\="org.eclipse.wst.xsl.ui.XSLEditor" image\="$nl$/icons/full/xslt_file.gif" internal\="true" label\="XSL Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.wst.xsl.ui"/>\r\n<descriptor class\="org.eclipse.pde.internal.ui.samples.SampleEditor" id\="org.eclipse.pde.ui.sampleEditor" image\="$nl$/icons/obj16/build_exec.gif" internal\="true" label\="Code Sample Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.pde.ui"/>\r\n<descriptor class\="org.eclipse.jdt.internal.debug.ui.snippeteditor.JavaSnippetEditor" id\="org.eclipse.jdt.debug.ui.SnippetEditor" image\="$nl$/icons/full/obj16/jsbook_obj.gif" internal\="true" label\="Scrapbook" openMode\="1" open_in_place\="false" plugin\="org.eclipse.jdt.debug.ui"/>\r\n<descriptor id\="org.eclipse.ui.browser.editorSupport" image\="$nl$/icons/obj16/internal_browser.gif" internal\="false" label\="Web Browser" launcher\="org.eclipse.ui.internal.browser.BrowserLauncher" openMode\="4" open_in_place\="false" plugin\="org.eclipse.ui.browser"/>\r\n<descriptor id\="org.eclipse.jdt.ui.JARDescEditor" image\="$nl$/icons/full/obj16/jar_desc_obj.gif" internal\="false" label\="JAR Export Wizard" launcher\="org.eclipse.jdt.internal.ui.jarpackager.OpenJarExportWizardEditorLauncher" openMode\="4" open_in_place\="false" plugin\="org.eclipse.jdt.ui"/>\r\n<descriptor class\="org.eclipse.wst.jsdt.internal.ui.javaeditor.CompilationUnitEditor" id\="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" image\="$nl$/icons/full/obj16/jcu_obj.gif" internal\="true" label\="JavaScript Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.wst.jsdt.ui"/>\r\n<descriptor class\="org.eclipse.wst.server.ui.internal.editor.ServerEditor" id\="org.eclipse.wst.server.ui.editor" image\="icons/obj16/server.gif" internal\="true" label\="Server Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.wst.server.ui"/>\r\n</editors>
+/instance/org.eclipse.core.resources/encoding=UTF-8
+@org.eclipse.wst.sse.core=1.1.702.v201301241617
+/instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=18
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime=F\:\\program\\apache-maven-3.3.9-bin\\apache-maven-3.3.9
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.javadoclocations.migrated=true
+@org.eclipse.mylyn.tasks.ui=3.10.0.20131009-1926
+@org.eclipse.wst.sse.ui=1.3.102.v201301162301
+/instance/org.eclipse.rse.core/useridperkey=DESKTOP-779ILI2.Local\=10337;
+/instance/org.eclipse.debug.ui/preferredTargets=default\:default|
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=false
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.ExpressionView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="373" org.eclipse.debug.ui.SASH_VIEW_PART\="626">\r\n<COLUMN_SIZES IMemento.internal.id\="org.eclipse.debug.ui.VARIALBE_COLUMN_PRESENTATION.COL_VAR_NAME" SIZE\="262"/>\r\n<COLUMN_SIZES IMemento.internal.id\="org.eclipse.debug.ui.VARIALBE_COLUMN_PRESENTATION.COL_VAR_VALUE" SIZE\="418"/>\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.ExpressionView"/>\r\n</VariablesViewMemento>
+/instance/org.tigris.subversion.subclipse.tools.usage/ask_user_for_usage_report_preference=false
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_participant=org.tigris.subversion.subclipse.participant
+/instance/org.eclipse.ant.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile=F\:\\program\\apache-maven-3.3.9-bin\\apache-maven-3.3.9\\conf\\settings.xml
+/instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions/>\r\n
+@org.eclipse.team.ui=3.6.201.v20130125-135424
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1477203868576" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1477203868576" name\="jdk1.7.0_21" path\="F\:\\program\\jdk1.7.0_21" vmargs\="-Dmaven.multiModuleProjectDirectory\=$M2_HOME"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
+/instance/org.eclipse.wst.html.ui/autoProposeCode=<=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVW
+/instance/org.eclipse.ui.editors/lineNumberRuler=true
+/instance/org.eclipse.team.cvs.ui/pref_first_startup=false
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+/configuration/org.tigris.subversion.subclipse.tools.usage/first_visit=1477202171911
+/instance/org.eclipse.wst.server.core/module-start-timeout=300000
+/instance/org.eclipse.ui.ide/quickStart=false
+@org.eclipse.m2e.core=1.4.1.20140328-1905
+\!/=
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.remove_all_expressions_prompt=false
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.7
+@org.eclipse.search=3.8.0.v20120523-1540
+/instance/org.eclipse.jst.jsp.core/\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000=
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.wst.validation/suspend=false
+/instance/org.eclipse.jdt.ui/tabWidthPropagated=true
+@org.eclipse.rse.core=3.3.2.201301152246
+/instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.codeComplete.visibilityCheck=enabled
+@org.eclipse.debug.ui=3.8.2.v20130130-171415
+/instance/org.eclipse.wst.jsdt.ui/content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVW
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+@org.eclipse.ui.workbench=3.104.0.v20130204-164612
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.code_templates_migrated=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=F\:/program/jdk1.7.0_21/jre/lib/rt.jar
+/instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.layout=2
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_participant_sec_id=1486451675124
+/configuration/org.tigris.subversion.subclipse.tools.usage/last_visit=1486602644893
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+@org.eclipse.ant.ui=3.5.301.v20121210-210948
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.jdt.junit.core/org.eclipse.jdt.junit.enable_assertions=false
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.wst.html.ui/html_content_assist_own_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.editor.tab.width=
+/configuration/org.tigris.subversion.subclipse.tools.usage/eclipse_instance_id=34886812745340230781477202178713
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.javadoclocations.migrated=true
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
+@org.eclipse.ui.browser=3.4.2.v20130123-162658
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.text.code_templates_migrated=true
+@org.eclipse.wst.server.core=1.4.100.v20130117_1140
+/instance/org.eclipse.pde.api.tools/knownEEFragments=
+/instance/org.eclipse.pde.core/platform_path=F\:\\program\\eclipse_4.5.0
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/instance/org.eclipse.jst.jsp.core/org.eclipse.jst.jsp.core.taglib.TaglibIndex=CLEAN
+/instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_default
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
+/instance/org.eclipse.wst.validation/vf.version=3
+/instance/org.eclipse.wst.validation/override=true
+/instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
+/instance/org.eclipse.wst.validation/USER_PREFERENCE=saveAutomaticallyfalseprojectsCanOverridetruedisableAllValidationfalseversion1.2.402.v201212031633
+/instance/org.eclipse.wst.jsdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+@org.tigris.subversion.subclipse.tools.usage=1.1.0
+/instance/org.eclipse.wst.validation/confirmDialog=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.pde.core/workspace_target_handle=local\:1480668958516.target
+@org.eclipse.wst.validation=1.2.402.v201212031633
+@org.eclipse.jdt.ui=3.8.2.v20130107-165834
+/instance/org.eclipse.ui.workbench/resourcetypes=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<editors version\="3.1">\r\n<info extension\="class without source" name\="*">\r\n<editor id\="org.eclipse.jdt.ui.ClassFileEditorNoSource"/>\r\n</info>\r\n<info extension\="jsp" name\="*">\r\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\r\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\r\n</info>\r\n<info extension\="xhtml" name\="*">\r\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\r\n</info>\r\n<info extension\="tagx" name\="*">\r\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\r\n</info>\r\n<info extension\="jspx" name\="*">\r\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\r\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\r\n</info>\r\n<info extension\="sql" name\="*">\r\n<editor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\r\n<editor id\="org.eclipse.datatools.sqltools.sqlbuilder"/>\r\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\r\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlbuilder"/>\r\n</info>\r\n<info extension\="xslt" name\="*">\r\n<editor id\="org.eclipse.wst.xsl.ui.XSLEditor"/>\r\n</info>\r\n<info extension\="tag" name\="*">\r\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\r\n</info>\r\n<info extension\="properties" name\="sample">\r\n<editor id\="org.eclipse.pde.ui.sampleEditor"/>\r\n<defaultEditor id\="org.eclipse.pde.ui.sampleEditor"/>\r\n</info>\r\n<info extension\="jpage" name\="*">\r\n<editor id\="org.eclipse.jdt.debug.ui.SnippetEditor"/>\r\n</info>\r\n<info extension\="shtml" name\="*">\r\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\r\n</info>\r\n<info extension\="xsl" name\="*">\r\n<editor id\="org.eclipse.wst.xsl.ui.XSLEditor"/>\r\n</info>\r\n<info extension\="ddl" name\="*">\r\n<editor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\r\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\r\n</info>\r\n<info extension\="jspf" name\="*">\r\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\r\n</info>\r\n<info extension\="tagf" name\="*">\r\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\r\n</info>\r\n<info extension\="htm" name\="*">\r\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\r\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\r\n</info>\r\n<info extension\="html" name\="*">\r\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\r\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\r\n</info>\r\n<info extension\="jsf" name\="*">\r\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\r\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\r\n</info>\r\n<info extension\="jardesc" name\="*">\r\n<editor id\="org.eclipse.jdt.ui.JARDescEditor"/>\r\n<defaultEditor id\="org.eclipse.jdt.ui.JARDescEditor"/>\r\n</info>\r\n<info extension\="js" name\="*">\r\n<editor id\="org.eclipse.wst.jsdt.ui.CompilationUnitEditor"/>\r\n<defaultEditor id\="org.eclipse.wst.jsdt.ui.CompilationUnitEditor"/>\r\n</info>\r\n<info extension\="server" name\="*">\r\n<editor id\="org.eclipse.wst.server.ui.editor"/>\r\n</info>\r\n<info extension\="sqlpage" name\="*">\r\n<editor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\r\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\r\n</info>\r\n</editors>
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+CTRL+ARROW_DOWN"/>\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.copyLineDown" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+B"/>\r\n</org.eclipse.ui.commands>
+@org.eclipse.jdt.debug.ui=3.6.100.v20120530-1425
+/instance/org.eclipse.jdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="com.winway.ecloud.data.entity.EcChannelPlanningLineEntity"><rhs name\="com.winway.ecloud.data.entity.EcChannelPlanningLineEntity"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="com.winway.wcloud.protal.vo.AjaxJson"><rhs name\="com.winway.wcloud.protal.vo.AjaxJson"/></lhs><lhs name\="com.winway.ecloud.data.entity.EcDeviceEntity"><rhs name\="com.winway.ecloud.data.entity.EcDeviceEntity"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Date"/><rhs name\="java.sql.Timestamp"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Date"><rhs name\="java.util.Date"/><rhs name\="java.sql.Timestamp"/></lhs><lhs name\="com.winway.ecloud.data.entity.EcChannelEntity"><rhs name\="com.winway.ecloud.data.entity.EcChannelEntity"/></lhs><lhs name\="com.winway.wcloud.dbcore.service.BaseService"><rhs name\="com.winway.ecloud.data.service.EcDevicePlanService"/><rhs name\="com.winway.ecloud.data.service.EcNodeService"/><rhs name\="com.winway.ecloud.data.service.EcChannelNodesService"/><rhs name\="com.winway.ecloud.data.service.EcChannelService"/></lhs><lhs name\="com.winway.ecloud.data.service.EcDevicePlanService"><rhs name\="com.winway.ecloud.data.service.EcDevicePlanService"/></lhs><lhs name\="com.winway.ecloud.data.entity.EcNodeEntity"><rhs name\="com.winway.ecloud.data.entity.EcNodeEntity"/></lhs><lhs name\="com.winway.ecloud.data.service.EcNodeService"><rhs name\="com.winway.ecloud.data.service.EcNodeService"/></lhs><lhs name\="com.winway.ecloud.data.service.EcChannelNodesService"><rhs name\="com.winway.ecloud.data.service.EcChannelNodesService"/></lhs><lhs name\="com.winway.ecloud.data.entity.EcChannelNodesEntity"><rhs name\="com.winway.ecloud.data.entity.EcChannelNodesEntity"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="com.winway.ecloud.data.entity.EcSubstationEntity"><rhs name\="com.winway.ecloud.data.entity.EcSubstationEntity"/></lhs><lhs name\="com.winway.ecloud.data.service.EcChannelService"><rhs name\="com.winway.ecloud.data.service.EcChannelService"/></lhs><lhs name\="com.winway.wcloud.datacontact.geojson.geometry"><rhs name\="com.winway.wcloud.datacontact.geojson.geometry"/></lhs><lhs name\="java.lang.Runnable"><rhs name\="service.requestThread"/><rhs name\="service.dataHandleThread"/></lhs><lhs name\="service.requestThread"><rhs name\="service.requestThread"/></lhs><lhs name\="test.Test"><rhs name\="test.Test"/></lhs><lhs name\="service.dataHandleThread"><rhs name\="service.dataHandleThread"/></lhs></history>
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=F\:\\java\\gaWorkspace\nF\:\\java\\workspace
+@org.tigris.subversion.subclipse.ui=1.8.21
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=12
+/instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.validation/DELEGATES_PREFERENCE=delegateValidatorList
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.ExpressionView.org.eclipse.jdt.debug.ui.show_null_entries=true
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.internal.ui.navigator.layout=1
+file_export_version=3.0
+@com.collabnet.subversion.merge=3.0.13
+@org.eclipse.mylyn.context.core=3.10.0.20131004-1625
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.userLibrary.csh=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="F\:/\u5DE5\u5177\u4EE3\u7801/jar/jsoup-1.9.2.jar"/>\r\n</userlibrary>\r\n
+/instance/org.eclipse.rse.core/activeuserprofiles=DESKTOP-779ILI2;Team
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_perspective_to_show=always
+/instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files (x86)\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n</web-browsers>
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=5
+/instance/org.eclipse.wst.sse.ui/hoverModifiers=combinationHover|true|0;problemHover|false|0;documentationHover|false|0;annotationHover|true|Shift;
+/instance/org.eclipse.ant.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=21
+@org.eclipse.wst.xml.ui=1.1.302.v201301172222
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.editor.tab.width=
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.prompt_unable_to_install_breakpoint=false
+@org.eclipse.mylyn.java.ui=3.10.0.20131007-1756
+/instance/org.tigris.subversion.subclipse.ui/pref_merge_provider=CollabNet Desktop
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.7
+/instance/org.tigris.subversion.subclipse.tools.usage/allow_usage_report_preference=true
+/instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.show_in_all_views=false
+/instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.plugInDevelopment=true
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.save_dirty_editors_before_launch=never
+/instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000
+/instance/org.eclipse.wst.xml.ui/org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart.lastActivePage=1
+@org.eclipse.jdt.junit.core=3.7.100.v20120523-1257
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+@org.eclipse.ui.editors=3.8.0.v20120523-1540
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Courier New|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Courier New;
+/instance/org.eclipse.search/org.eclipse.search.defaultPerspective=org.eclipse.search.defaultPerspective.none
+/instance/org.eclipse.wst.validation/USER_BUILD_PREFERENCE=enabledBuildValidatorListorg.eclipse.jst.j2ee.internal.validation.UIEarValidator;org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator;org.eclipse.jst.j2ee.internal.validation.UIApplicationClientValidator;org.eclipse.jst.j2ee.internal.jca.validation.UIConnectorValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;
+@org.eclipse.wst.jsdt.ui=1.1.202.v201208171701
+/instance/org.eclipse.core.resources/version=1
+@org.eclipse.core.net=1.2.200.v20120914-093638
+/instance/org.eclipse.wst.jsdt.ui/tabWidthPropagated=true
+@org.eclipse.wst.ws.service.policy=1.0.303.v201009221810
+/instance/org.eclipse.wst.jsdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.formatterprofiles.version=11
+@org.eclipse.mylyn.monitor.ui=3.10.0.20131006-0231
+@org.eclipse.debug.core=3.7.100.v20120521-2012
+/instance/org.eclipse.jdt.ui/proposalOrderMigrated=true
+/instance/org.eclipse.jst.server.tomcat.core/locationorg.eclipse.jst.server.tomcat.runtime.70=F\:/java/ga-tomcat-7.0.63/apache-tomcat-7.0.63
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
+@org.eclipse.core.resources=3.8.1.v20121114-124432
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.switch_perspective_on_suspend=always
+/instance/org.eclipse.wst.jsdt.ui/MemberFilterActionGroup.org.eclipse.wst.jsdt.ui.JavaOutlinePage.4=true
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.jst.j2ee.webservice.ui/areThereWebServices=false
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Courier New|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Courier New;
+@org.eclipse.wst.html.ui=1.0.702.v201211262010
+/instance/org.eclipse.rse.core/org.eclipse.rse.systemtype.local.systemType.defaultUserId=10337
+/instance/com.collabnet.subversion.merge/merge_provider_set=true
+@org.eclipse.jdt.launching=3.6.101.v20130111-183046
+/instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND=true
+@org.eclipse.team.cvs.ui=3.3.500.v20120522-1148
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
+/instance/org.eclipse.m2e.discovery/org.eclipse.m2e.discovery.pref.projects=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+/instance/org.eclipse.m2e.core/eclipse.m2.runtimes=F\:\\program\\apache-maven-3.3.9-bin\\apache-maven-3.3.9
+/instance/org.eclipse.jdt.ui/fontPropagated=true
+/instance/org.eclipse.wst.jsdt.ui/proposalOrderMigrated=true
+/instance/org.eclipse.wst.validation/vals/org.eclipse.wst.xml.core.xml/global=TF03
+/instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile=F\:\\program\\apache-maven-3.3.9-bin\\apache-maven-3.3.9\\conf\\settings.xml
+/instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=abcdefghijklmnopqrstuvwzxy.
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.text.templates_migrated=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
+@org.eclipse.wst.jsdt.web.core=1.0.502.v201301101836
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<viewBindings>\r\n<view id\="org.eclipse.debug.ui.DebugView">\r\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n</view>\r\n<view id\="org.eclipse.debug.ui.ExpressionView">\r\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n</view>\r\n</viewBindings>\r\n
+@org.eclipse.wst.jsdt.core=1.1.202.v201208171701
+/instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=http\://marketplace.eclipse.org
+/instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.jst.ws.jaxws.dom.integration.navigator.WebServiceDecorator\:true,org.eclipse.m2e.core.mavenVersionDecorator\:false,org.eclipse.wst.server.ui.decorator\:false,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.DependencyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ColumnDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ForeignKeyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.IndexTriggerDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.bookmarkDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.FilterNodeDecoration\:true,org.eclipse.datatools.connectivity.ui.decorator.contentextension\:false,org.eclipse.datatools.enablement.ingres.ui.providers.decorators.SynonymDecorationService\:true,org.eclipse.datatools.enablement.ingres.internal.ui.providers.decorators.ParameterDecorationService\:true,org.eclipse.datatools.enablement.sybase.asa.proxytabledecorator\:true,org.eclipse.datatools.enablement.sybase.ase.webservicetabledecorator\:true,org.eclipse.datatools.enablement.sybase.systemtabledecorator\:true,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_ejb\:true,org.eclipse.jst.j2ee.navigator.internal.J2EEProjectDecorator\:true,org.eclipse.jst.jee.ui.internal.navigator.ejb.BeanDecorator\:true,org.eclipse.jst.jee.navigator.internal.JEEProjectDecorator\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_servlet\:true,org.eclipse.jst.servlet.ui.Decorator\:true,org.eclipse.m2e.core.maven2decorator\:true,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.rse.core.virtualobject.decorator\:true,org.eclipse.rse.core.binary.executable.decorator\:true,org.eclipse.rse.core.script.executable.decorator\:true,org.eclipse.rse.core.java.executable.decorator\:true,org.eclipse.rse.core.library.decorator\:true,org.eclipse.rse.core.link.decorator\:true,org.eclipse.rse.subsystems.error.decorator\:true,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.wst.jsdt.ui.override.decorator\:true,org.eclipse.wst.server.ui.navigatorDecorator\:true,org.tigris.subversion.subclipse.ui.decorator\:true,
+/instance/org.eclipse.wst.jsdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.rse.ui/org.eclipse.rse.preferences.order.connections=DESKTOP-779ILI2.Local
+@org.eclipse.jst.server.tomcat.core=1.1.402.v20130108_1103
+@org.eclipse.jst.j2ee.webservice.ui=1.1.500.v201105122000
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.ui.ide/IDE_ENCODINGS_PREFERENCE=GBK'
+/instance/org.eclipse.wst.server.core/runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="Apache Tomcat v7.0" location\="F\:/java/apache-tomcat-7.0.63/apache-tomcat-7.0.63" name\="Apache Tomcat v7.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.70" timestamp\="0"/>\r\n  <runtime id\="gaTomcat" location\="F\:/java/ga-tomcat-7.0.63/apache-tomcat-7.0.63" name\="gaTomcat" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.70" timestamp\="1"/>\r\n</runtimes>\r\n
+/configuration/org.tigris.subversion.subclipse.tools.usage/visit_count=118
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=F\:/program/jdk1.7.0_21/src.zip
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
+@org.eclipse.pde.core=3.8.1.v20130115-200504
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+@org.eclipse.epp.mpc.ui=1.1.1.I20110907-0947
+@org.eclipse.ui=3.104.0.v20121024-145224
+@org.eclipse.pde.api.tools=1.0.400.v20120523-2012
